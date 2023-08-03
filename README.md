@@ -15,6 +15,8 @@ This is a quiz game that asks users trivia questions or math questions. The user
 
 https://github.com/Wasi-Genius/Wasi-Genius-Beginner-Projects/assets/103324585/e6856de4-204e-4878-be61-93f300defbf4
 
+</br>
+
 ## **Rock, Paper, Scissors Game**:
 This is a rock, paper, scissors game in which users go against the computer which makes its decisions through the random library and its functions. Images of rocks, paper, or scissors are shown based on the decision made by the user and the robot. These images are processed by the climage library into printable colored characters which are shown in the Python console. At the end of the game, the user is told the winner of the game or if the game was tied, and the scores of the user and the computer.  
 
