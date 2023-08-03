@@ -1,5 +1,6 @@
 import random
 from time import sleep
+# Import statement below used playsound2 library. The orignial playsound library has bugs not allowing certain audio to be played. 
 from playsound import playsound
 
 print('\nHello welcome to the program! This is a quiz game about random trivia and math problems.')
